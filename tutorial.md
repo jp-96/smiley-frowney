@@ -19,8 +19,4 @@ strip.setPixelColor(0, NeoPixelColors.White)
 
 Congratulations, you did it!
 
-<script src="https://cdn.jsdelivr.net/gh/jp-rad/pxt-ubit-extension@0.5.0/.github/statics/gh-pages-embed.js"></script>
-<script>makeCodeRender("{{ site.makecode.home_url }}", [
-    "neopixel=github:microsoft/pxt-neopixel",
-]);
-</script>
+<script src="https://cdn.jsdelivr.net/gh/jp-rad/pxt-ubit-extension@0.5.0/.github/statics/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", ["neopixel=github:microsoft/pxt-neopixel",]);</script>
